@@ -13,6 +13,8 @@ conda activate openai-text-embedding
 Then, install the dependencies.
 ```bash
 pip install -r requirements.txt
+# Or use mirror
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 ## Usage
